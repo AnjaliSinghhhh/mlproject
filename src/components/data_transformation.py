@@ -107,6 +107,10 @@ class DataTransformation:
             train_arr = np.c_[input_feature_train_arr, np.array(target_feature_train_df)]
             test_arr = np.c_[input_feature_test_arr, np.array(target_feature_test_df)]
 
+            logging.info('Applying preprocessing object on training and testing dataframes successfully.')
+            logging.info('Saving preprocessing object.')
+
+
             logging.info('Preprocessing applied to train and test datasets.')
 
             # Save preprocessing object
