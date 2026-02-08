@@ -113,6 +113,3 @@ http://127.0.0.1:5000/predictdata
 
 ---
 
-### LinkedIn/Resume Description:
-
-**Developed a Flask-based web application using machine learning to predict students’ Maths scores based on demographic data, parental education, and academic performance. Implemented end-to-end ML workflow including data preprocessing, model training (Random Forest/XGBoost), and deployment. The interactive web app provides real-time predictions and demonstrates practical skills in regression modeling, feature engineering, and building production-ready ML applications.**
