@@ -2,9 +2,8 @@ pandas
 numpy
 seaborn
 matplotlib
-scikit-learn
+scikit-learn<1.6
 catboost
 xgboost
-weasyprint
-dill 
-#-e.
+dill
+-e .

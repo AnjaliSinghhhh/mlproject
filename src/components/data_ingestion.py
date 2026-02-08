@@ -1,5 +1,8 @@
 import os 
 import sys
+import catboost
+print(catboost.__version__)
+
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
@@ -13,7 +16,7 @@ from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
 
 #in data ingestion we will read the data and split it into train and test set and save it in the local directory
-#where i should dave the train and test data this we will mention in dataingestionconfig
+#where i should save the train and test data this we will mention in dataingestionconfig
 
 class DataIngestionConfig:
     train_data_path=os.path.join('artifacts','train.csv')#train data will be saved in artificats folder
@@ -21,7 +24,6 @@ class DataIngestionConfig:
     raw_data_path=os.path.join('artifacts','data.csv')#raw data will be saved in artifacts folder
 
 
-from src.components.data_transformation import DataTransformationConfig
 @dataclass
 class DataIngestion:
     def __init__(self):
