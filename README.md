@@ -83,7 +83,8 @@ http://127.0.0.1:5000/predictdata
 
 ## 📸  Screenshot
 
-![Flask App Screenshot](./assets/project_img.png)
+![Flask App Screenshot](https://raw.githubusercontent.com/AnjaliSinghhhh/mlproject/main/assets/project_img.png)
+
 
 
 ## 🔮 Usage
