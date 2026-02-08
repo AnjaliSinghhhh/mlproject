@@ -78,9 +78,9 @@ python app.py
 http://127.0.0.1:5000/predictdata
 ```
 
-## 🎨 Screenshots
+## DEMO VIDEO
 
-![Flask App Screenshot](./screenshot.png)
+![Flask App DEMO]("C:\Users\Anjali Singh\Videos\PROJECT_ RECORDING.mp4")
 
 ## 🔮 Usage
 
