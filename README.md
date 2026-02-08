@@ -80,7 +80,10 @@ http://127.0.0.1:5000/predictdata
 
 ## DEMO VIDEO
 
-![Flask App DEMO]("C:\Users\Anjali Singh\Videos\PROJECT_ RECORDING.mp4")
+## 🎥 Demo Video
+
+[Click here to watch the demo](assets/PROJECT_RECORDING.mp4)
+
 
 ## 🔮 Usage
 
