@@ -79,11 +79,7 @@ http://127.0.0.1:5000/predictdata
 ```
 
 ## DEMO VIDEO
-
-## 🎥 Demo Video
-
-[Click here to watch the demo](assets/PROJECT_RECORDING.mp4)
-
+[![Watch Demo](demo_thumbnail.png)](PROJECT_RECORDING.mp4)
 
 ## 🔮 Usage
 
