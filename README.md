@@ -81,6 +81,11 @@ http://127.0.0.1:5000/predictdata
 ## DEMO VIDEO
 [![Watch Demo](demo_thumbnail.png)](PROJECT_RECORDING.mp4)
 
+## 📸  Screenshot
+
+![Flask App Screenshot](\assests\project_img.png)
+
+
 ## 🔮 Usage
 
 1. Open the web app.
